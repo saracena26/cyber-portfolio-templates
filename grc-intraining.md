@@ -25,4 +25,9 @@ My goal is to help organizations manage risks and meet compliance requirements.
 🚀 **Next Steps:**  
 - Gain practical experience with security frameworks  
 - Work on compliance case studies  
-- Build a repository of GRC resources  
+- Build a repository of GRC resources
+
+📫 **Connect with me:**  
+🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+```
