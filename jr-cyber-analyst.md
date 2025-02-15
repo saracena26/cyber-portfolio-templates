@@ -1,5 +1,5 @@
 ## 🔹 Junior Cybersecurity Analyst
-```md
+
 # 🛡️ [Your Name]  
 **Junior Cybersecurity Analyst | Future Security Professional**  
 
