@@ -24,7 +24,7 @@ Currently, I am learning the fundamentals of **operating systems, networking, tr
 - CompTIA IT Fundamentals+ (In Progress)  
 - AWS Cloud Practitioner (Planned)
 - ISC2 Certified in Cybersecurity (Planned)
-- This site was built using [GitHub Pages](https://pages.github.com/).
+- [GitHub Markdown Guide](https://www.markdownguide.org/)
 
 🚀 **Next Steps:**  
 - Document hands-on labs and security projects  
