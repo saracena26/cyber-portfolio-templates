@@ -20,6 +20,7 @@ My goal is to help organizations manage risks and meet compliance requirements.
 
 📜 **Certifications & Training:**  
 - Project Management (Planned)
+- ISC2 Certified in Cybersecurity (Planned)
 - CompTIA Security+ (Planned)  
 
 🚀 **Next Steps:**  
