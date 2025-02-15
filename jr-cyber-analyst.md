@@ -4,7 +4,8 @@
 **Junior Cybersecurity Analyst | Future Security Professional**  
 
 📌 **About Me:**  
-I am actively training to become a **Cybersecurity Analyst**, developing expertise in risk management, incident response, and security operations. My goal is to analyze threats and implement security measures to protect organizations.
+I am actively training to become a **Cybersecurity Analyst**, developing expertise in risk management, incident response, 
+and security operations. My goal is to analyze threats and implement security measures to protect organizations.
 
 💡 **Skills & Learning Path:**  
 - Security Operations & Threat Intelligence  
