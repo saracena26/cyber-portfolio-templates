@@ -1,5 +1,5 @@
 ## 🔹 Cybersecurity, Networking, and Cloud Student
-```md
+
 # 🌍 [Your Name]  
 **Cybersecurity, Networking, and Cloud Student | [Your Training School Name]**  
 
