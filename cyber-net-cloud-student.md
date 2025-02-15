@@ -19,8 +19,8 @@ Currently, I am learning the fundamentals of **operating systems, networking, tr
 - Hands-on Labs in Threat Detection  
 
 📜 **Certifications, Badges, & Training:**  
-- [Cisco Introduction to Cybersecurity (Badge):](https://credly.com/yourid/...)  
-- [Cisco Operating Systems Basics (Badge):](https://credly.com/yourid/...)
+- [Cisco Introduction to Cybersecurity "(Badge)":](https://credly.com/yourid/...)  
+- [Cisco Operating Systems Basics "(Badge)":](https://credly.com/yourid/...)
 - CompTIA IT Fundamentals+ (In Progress)  
 - AWS Cloud Practitioner (Planned)
 - ISC2 Certified in Cybersecurity (Planned)
