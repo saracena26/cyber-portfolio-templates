@@ -25,7 +25,7 @@ Follow these steps to fork a repository, copy the README.md markdown syntax, and
 ## 🔥 Step 4: Paste and Customize Your README
 1. **Open the README.md File**: In your new profile repository, open `README.md`.
 2. **Click the Pencil Icon**: This allows you to edit the file.
-3. **Paste the Copied Markdown**: Use `Ctrl + V` / `Cmd + V` to paste the markdown content from the forked README.
+3. **Paste the Copied Markdown**: Use `Ctrl + V` / `Cmd + V` to paste the markdown content from the forked Job Title you modified.
 4. **Customize**: Edit the sections to reflect your own details, projects, and links.
 5. **Commit Changes**: Scroll down and click `Commit changes` to save.
 
