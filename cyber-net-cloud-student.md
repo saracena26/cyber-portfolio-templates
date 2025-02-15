@@ -24,13 +24,6 @@ Currently, I am learning the fundamentals of **operating systems, networking, tr
 - CompTIA IT Fundamentals+ (In Progress)  
 - AWS Cloud Practitioner (Planned)
 - ISC2 Certified in Cybersecurity (Planned)
-- [GitHub Markdown Guide](https://www.markdownguide.org/)
-
-<!-- 🔗 Additional Resources:
-- [GitHub Markdown Guide](https://www.markdownguide.org/)
-- [Cybersecurity Learning Paths](https://www.cisa.gov/cybersecurity-careers)
-- [Beginner Cybersecurity Labs](https://tryhackme.com/) -->
-
 
 🚀 **Next Steps:**  
 - Document hands-on labs and security projects  
