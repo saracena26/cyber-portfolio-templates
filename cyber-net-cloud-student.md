@@ -26,6 +26,7 @@ Currently, I am learning the fundamentals of **operating systems, networking, tr
 - ISC2 Certified in Cybersecurity (Planned)
 - [GitHub Markdown Guide](https://www.markdownguide.org/)
 
+
 🚀 **Next Steps:**  
 - Document hands-on labs and security projects  
 - Build a cybersecurity home lab  
