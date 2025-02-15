@@ -3,15 +3,16 @@
 Follow these steps to fork a repository, copy the README.md markdown syntax, and set up your GitHub profile README.
 
 ## 🚀 Step 1: Fork the Repository
-1. **Go to the Repository**: Open the GitHub repository that contains the README.md file you want to copy.
-2. **Click on Fork**: In the top-right corner, click the `Fork` button to create a copy of the repository under your own GitHub account.
+1. **Go to the [Repository:](https://github.com/emiliedionisio/cyber-portfolio-templates).
+2. **Click on Fork**: In the top-right corner, click the `Fork` button to create a copy of the repository under your own GitHub account. Name it however you want it be.
 3. **Wait for GitHub to Process**: GitHub will create a duplicate of the repository in your account.
 
-## 📝 Step 2: Copy the README.md Markdown Syntax
+## 📝 Step 2: Choose any of the sample Job Title
 1. **Navigate to the Forked Repository**: Go to your GitHub profile and open the forked repository.
-2. **Find the README.md File**: Locate `README.md` in the repository's file list.
-3. **Open the File**: Click on `README.md` to view its content.
-4. **Copy the Markdown Syntax**: Click the pencil (✏️) icon to enter edit mode, then select all text (`Ctrl + A` / `Cmd + A`), and copy (`Ctrl + C` / `Cmd + C`).
+2. **Choose from the list of Job Titles you want use**.
+3. **Open the any of the file (For example, pick "cyber-net-cloud-student.md") to view its content and modify it by clicking the (✏️) icon.**
+4. Once you are done modifying it, click **Commit Changes** to save a copy of it.
+5. **Copy the Markdown Syntax**: Click the pencil (✏️) icon again to enter edit mode, then select all text (`Ctrl + A` / `Cmd + A`), and copy (`Ctrl + C` / `Cmd + C`).
 
 ## ✨ Step 3: Create Your GitHub Profile README
 1. **Go to Your GitHub Profile**: Open [GitHub](https://github.com/) and navigate to your profile.
