@@ -8,7 +8,8 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 
 ## 📂 What’s Inside?
 
-✅ [**How to Fork a Repository**](blob/main/fork-a-repo.md).
+
+✅ [**How to Fork a Repository**](blob/main/fork-a-repo.md).<br />
 ✅ **Markdown Cheatsheet** – Learn how to format GitHub profiles like a pro.  
 ✅ **GitHub Workflow Guides** – Steps to **fork, clone, push, and create pull requests**.  
 ✅ **Cybersecurity Portfolio Tips** – Best practices for documenting labs & projects.  
