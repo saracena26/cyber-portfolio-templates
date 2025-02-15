@@ -3,7 +3,7 @@
 Follow these steps to fork a repository, copy the README.md markdown syntax, and set up your GitHub profile README.
 
 ## 🚀 Step 1: Fork the Repository
-1. **Go to the [Repository:](https://github.com/emiliedionisio/cyber-portfolio-templates).
+1. **Go to the [cyber-portfolio-templates Repo:](https://github.com/emiliedionisio/cyber-portfolio-templates).
 2. **Click on Fork**: In the top-right corner, click the `Fork` button to create a copy of the repository under your own GitHub account. Name it however you want it be.
 3. **Wait for GitHub to Process**: GitHub will create a duplicate of the repository in your account.
 
@@ -12,10 +12,10 @@ Follow these steps to fork a repository, copy the README.md markdown syntax, and
 2. **Choose from the list of Job Titles you want use**.
 3. **Open the any of the file (For example, pick "cyber-net-cloud-student.md") to view its content and modify it by clicking the (✏️) icon.**
 4. Once you are done modifying it, click **Commit Changes** to save a copy of it.
-5. **Copy the Markdown Syntax**: Click the pencil (✏️) icon again to enter edit mode, then select all text (`Ctrl + A` / `Cmd + A`), and copy (`Ctrl + C` / `Cmd + C`).
+5. **Copy the Markdown Syntax**: Click the pencil (✏️) icon **AGAIN** to enter edit mode, then select all text (`Ctrl + A` / `Cmd + A`), and copy (`Ctrl + C` / `Cmd + C`).
 
 ## ✨ Step 3: Create Your GitHub Profile README
-1. **Go to Your GitHub Profile**: Open [GitHub](https://github.com/) and navigate to your profile.
+1. On the top left, **RIGHT CLICK** on the GitHub icon (cat logo) to open a new tab. **Go to Your GitHub Profile**: Open [GitHub](https://github.com/) and navigate to your profile.
 2. **Create a New Repository**: Click the `+` button in the top-right and select `New repository`.
 3. **Name the Repository**: Enter your GitHub username as the repository name (**must match exactly** to enable profile README), e.g., `your-github-username`.
 4. **Make it Public**: Ensure the repository is public.
