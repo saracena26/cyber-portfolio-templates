@@ -1,6 +1,6 @@
 ## 🔹 Junior Cybersecurity Analyst
 
-# 🛡️ [Your Name]  
+# 👨‍💻(male) or 👩‍💻(female) [Your Name]  
 **Junior Cybersecurity Analyst | Future Security Professional**  
 
 📌 **About Me:**  
