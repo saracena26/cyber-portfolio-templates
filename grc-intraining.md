@@ -1,5 +1,5 @@
 ## 🔹 Governance, Risk, and Compliance (GRC) Analyst in Training
-```md
+
 # 📜 [Your Name]  
 **GRC Analyst in Training | Security Policy & Risk Management Enthusiast**  
 
