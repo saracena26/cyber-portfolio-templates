@@ -29,9 +29,7 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 
 ### 🔗 Additional Resources:
 - [GitHub Markdown Guide](https://www.markdownguide.org/)
-- [Cybersecurity Learning Paths](https://www.cisa.gov/cybersecurity-careers)
 - [Beginner Cybersecurity Labs](https://tryhackme.com/)
-- [Docker](https://drive.google.com/file/d/1FWGcf0IipXCIW15llKk9ZZyIMySjde5C/view?usp=share_link)
 
 📢 **Feel free to contribute!** Submit a pull request if you have helpful templates or cybersecurity portfolio tips. 
 
