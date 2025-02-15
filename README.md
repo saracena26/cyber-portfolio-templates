@@ -8,7 +8,7 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 
 ## 📂 What’s Inside?
 
-✅ [**Cybersecurity Portfolio Templates** – Different fields in Cybersecurity (sample Portfolio page).](https://github.com/emiliedionisio/cyber-portfolio-templates/blob/main/README.md)  
+✅ [**Cybersecurity Portfolio Templates** – Different fields in Cybersecurity (sample Portfolio page)](https://github.com/emiliedionisio/cyber-portfolio-templates)  
 ✅ **Markdown Cheatsheet** – Learn how to format GitHub profiles like a pro.  
 ✅ **GitHub Workflow Guides** – Steps to **fork, clone, push, and create pull requests**.  
 ✅ **Cybersecurity Portfolio Tips** – Best practices for documenting labs & projects.  
