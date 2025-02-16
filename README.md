@@ -31,7 +31,6 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 
 ### 🔗 Additional Resources:
 - [GitHub Markdown Guide](https://www.markdownguide.org/)
-- [Beginner Cybersecurity Labs](https://tryhackme.com/)
 - List of Sample Cybersecurity Home Labs:
   - [HomeLab Setup with a Firewall and SIEM Solution](https://github.com/shahnitav/HomeLab-Setup)
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://cyberwoxacademy.com/building-a-cybersecurity-homelab-for-detection-monitoring/)
