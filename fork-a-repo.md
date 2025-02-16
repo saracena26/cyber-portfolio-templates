@@ -3,7 +3,7 @@
 Follow these steps to fork a repository, copy the README.md markdown syntax, and set up your GitHub profile README.
 
 ## 🚀 Step 1: Fork the Repository
-1. **Go to the [cyber-portfolio-templates Repo:](https://github.com/emiliedionisio/cyber-portfolio-templates).
+1. **Go to the [cyber-portfolio-templates Repo](README.md).
 2. **Click on Fork**: In the top-right corner, click the `Fork` button to create a copy of the repository under your own GitHub account. Name it however you want it be.
 3. **Wait for GitHub to Process**: GitHub will create a duplicate of the repository in your account.
 
