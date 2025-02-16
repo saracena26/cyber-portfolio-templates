@@ -41,7 +41,6 @@ Include projects covering different aspects of cybersecurity:
 ## 🎯 6. Host Your Portfolio Professionally
 Consider different platforms:
 - **GitHub Pages** – Ideal for showcasing Markdown-based documentation.
-- **Personal Website** – Build a cybersecurity portfolio using WordPress, Wix, or a static site generator.
 - **LinkedIn Articles** – Share detailed write-ups to attract recruiters.
 
 ## 🚀 7. Make It Actionable & Shareable
