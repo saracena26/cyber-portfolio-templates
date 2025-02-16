@@ -10,7 +10,7 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 
 
 ✅ [**How to Fork a Repository**](fork-a-repo.md).<br />
-✅ [**Cybersecurity Job Titles**](/cyber-portfolio-templates) – List of sample of Job Titles. <br />
+✅ [**Cybersecurity Job Titles**](README.md) – List of sample of Job Titles. <br />
 ✅ **Markdown Cheatsheet** – Learn how to format GitHub profiles like a pro. <br />
 ✅ **GitHub Workflow Guides** – Steps to **fork, clone, push, and create pull requests**.  <br />
 ✅ **Cybersecurity Portfolio Tips** – Best practices for documenting labs & projects.  <br />
