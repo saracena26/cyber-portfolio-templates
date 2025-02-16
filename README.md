@@ -12,8 +12,8 @@ This repository is designed to help **beginners in cybersecurity** create a prof
 ✅ [**How to Fork a Repository**](fork-a-repo.md).<br />
 ✅ [**Cybersecurity Job Titles**](README.md) – List of sample of Job Titles. <br />
 ✅ [**Markdown Cheatsheet**](https://www.geeksforgeeks.org/markdown-cheat-sheet-github/) – Learn how to format GitHub profiles like a pro. <br />
-✅ **GitHub Workflow Guides** – Steps to **fork, clone, push, and create pull requests**.  <br />
-    - [Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+✅ **GitHub Workflow Guides** – Steps to **fork, clone, push, and create pull requests**. 
+    - [Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <br />
 ✅ **Cybersecurity Portfolio Tips** – Best practices for documenting labs & projects.  <br />
 
 <!-- ✅ **GitHub README Templates** – "About Me" sections tailored for cybersecurity learners. -->
