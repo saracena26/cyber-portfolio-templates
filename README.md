@@ -36,6 +36,8 @@ This repository is designed to help **beginners in cybersecurity** create a prof
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://cyberwoxacademy.com/building-a-cybersecurity-homelab-for-detection-monitoring/)
   - [Setting up a Cybersecurity Homelab for Intrusion Detection and Monitoring](https://www.staticsquid.com/blog/setting-up-a-cybersecurity-homelab-for-intrusion-detection-and-monitoring)
 - [Cybersecurity Projects for 2025](https://www.youtube.com/watch?v=76tvxUIRcrY)
+
+
 📢 **Feel free to contribute!** Submit a pull request if you have helpful templates or cybersecurity portfolio tips. 
 
 🚀 Happy Learning & Building! 🛡️
