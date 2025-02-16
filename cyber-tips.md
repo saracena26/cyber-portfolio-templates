@@ -44,7 +44,7 @@ Consider different platforms:
 - **LinkedIn Articles** – Share detailed write-ups to attract recruiters.
 
 ## 🚀 7. Make It Actionable & Shareable
-- Include a **call-to-action** (e.g., “Check out my GitHub for full documentation!”).
+- Include a **call-to-action**.
 - Share projects on **LinkedIn, Twitter, or cybersecurity communities**.
 - Engage with others by seeking feedback and contributing to open-source projects.
 
