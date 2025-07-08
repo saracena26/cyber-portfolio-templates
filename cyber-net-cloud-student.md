@@ -1,37 +1,33 @@
-## 🔹 Cybersecurity, Networking, and Cloud Student
 
-# 👨‍💻(male) or 👩‍💻(female) [Your Name]  
-**Cybersecurity, Networking, and Cloud Student | [Your Training School Name]**  
+Sheniese Aracena-baez  
+Cybersecurity, Networking, and Cloud Student | The Knowledge House  
 
-📌 **About Me:**  
-I am a dedicated **Cybersecurity, Networking, and Cloud Student** with a passion for understanding how technology and security work together. 
-Currently, I am learning the fundamentals of **operating systems, networking, troubleshooting, and cybersecurity best practices** to build a strong IT foundation.
+📌 About Me:  
+I’m a Cybersecurity, Networking, and Cloud student building a strong IT foundation through hands-on learning. So far, I’ve been developing skills in operating systems, networking, troubleshooting, and cybersecurity best practices—with a growing passion for how systems work and how to secure them.
 
-💡 **Skills & Learning Path:**  
+💡 Skills & Learning Path:  
 - IT Fundamentals: Basic OS, Hardware, Networking, and Troubleshooting  
 - Cybersecurity Principles: CIA Triad, AAA, Risk Management  
-- Cloud Technologies: AWS, Azure, Security Best Practices  
-- Security Tools: Wireshark, Nmap, Kali Linux  
+- Cloud Technologies: AWS, Security Best Practices for Cloud Enviroments 
+- Security Tools: Wireshark, Nmap, Kali Linux, Snort, Wazzuh 
 
-📂 **Projects & Labs:**  
+📂 Projects & Labs:  
 - Setting up a Virtual Lab with VMs  
 - Documenting Network Security Practices  
 - Hands-on Labs in Threat Detection  
 
-📜 **Certifications, Badges, & Training:**  
-- [Cisco Introduction to Cybersecurity - Badge:](https://credly.com/user/yourname)  
-- [Cisco Operating Systems Basics - Badge:](https://credly.com/user/yourname)
-- CompTIA IT Fundamentals+ (In Progress)  
-- AWS Cloud Practitioner (Planned)
-- ISC2 Certified in Cybersecurity (Planned)
+📜 Certifications, Badges, & Training:  
+- Cisco Network Basics | https://www.credly.com/badges/2360e583-9b43-4cba-930b-9f0eb44bab14/public_url
+- AWS Cloud Practitioner | https://www.credly.com/badges/d979968c-5928-44cf-9eb0-a3191a3572f9/public_url
+- CompTIA IT A+ (In Progress)
 - 
 
 🚀 **Next Steps:**  
 - Document hands-on labs and security projects  
 - Build a cybersecurity home lab  
-- Contribute to security-focused open-source projects  
+- Home build Cloud-Based Storage  
 
 📫 **Connect with me:**  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🔗 GitHub: https://github.com/saracena26/  
+💼 LinkedIn: www.linkedin.com/in/sheniese-a-baez  
 ```
